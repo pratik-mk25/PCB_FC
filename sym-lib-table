@@ -1,0 +1,8 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "10104111-0001LF")(type "KiCad")(uri "${KIPRJMOD}/LIB/Symbols/10104111-0001LF.kicad_sym")(options "")(descr ""))
+  (lib (name "BMP388")(type "KiCad")(uri "${KIPRJMOD}/LIB/Symbols/BMP388.kicad_sym")(options "")(descr ""))
+  (lib (name "ICM-42670-P")(type "KiCad")(uri "${KIPRJMOD}/LIB/Symbols/ICM-42670-P.kicad_sym")(options "")(descr ""))
+  (lib (name "STM32F405RGT6")(type "KiCad")(uri "${KIPRJMOD}/LIB/Symbols/STM32F405RGT6.kicad_sym")(options "")(descr ""))
+  (lib (name "X32258MOB4SI")(type "KiCad")(uri "${KIPRJMOD}/LIB/Symbols/X32258MOB4SI.kicad_sym")(options "")(descr ""))
+)
