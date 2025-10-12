@@ -1,4 +1,4 @@
-25219467604967898
+25242343517808175
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -13,6 +13,20 @@ audio belton reverb
 0
 7
 7
+BMP388
+PQFN50P200X200X80-10N
+
+
+0
+10
+10
+BS-7-BLUE
+BAT_BS-7-BLUE
+
+
+0
+2
+2
 Battery
 BatteryClip_Keystone_54_D16-19mm
 Battery clip for batteries with a diameter between 16-19 mm: https://www.keyelco.com/product.cfm/product_id/826
@@ -2652,6 +2666,27 @@ speaker CUI
 0
 2
 2
+CUSTOM
+NRF240L_SMD
+
+
+0
+8
+8
+CUSTOM
+VIHANG
+
+
+0
+0
+0
+CUSTOM
+handofgod
+
+
+0
+0
+0
 Calibration_Scale
 Gauge_10mm_Type1_CopperTop
 Gauge, Massstab, 10mm, CopperTop, Type 1,
@@ -59233,6 +59268,13 @@ heatsink
 0
 0
 0
+ICM-42670
+ICM42670P
+14 Lead LGA (2.5x3x0.76)
+Integrated Circuit
+0
+14
+14
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -65519,6 +65561,13 @@ solder jumper open
 0
 3
 3
+KiCad
+QFP50P1200X1200X160-64N
+LQFP - 64 pin, 10 x 10 mm
+Integrated Circuit
+0
+64
+64
 LED_SMD
 LED-APA102-2020
 http://www.led-color.com/upload/201604/APA102-2020%20SMD%20LED.pdf
@@ -69537,6 +69586,41 @@ threaded screw
 0
 4
 1
+MouseBite
+mouse-bite-1mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-2.54mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-2mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-3mm-slot
+
+
+0
+0
+0
+MouseBite
+mouse-bite-5mm-slot
+
+
+0
+0
+0
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads
@@ -101317,3 +101401,10 @@ Varistor VF
 0
 2
 2
+X225
+X32258MOB4SI
+ SMD3225-4P
+Crystal or Oscillator
+0
+4
+4
